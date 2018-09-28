@@ -34,7 +34,7 @@ The backend must be written in Python.  You are free to use any database you wis
 
 ## (Task 3) Full Stack or Backend Developer
 
-Write the necessary deployment scripts to deploy your backend along with webproxy on local Minikube Kubernetes cluster. The webproxy is responsible for routing the incoming HTTP requests to the backend.
+Write the necessary deployment scripts to deploy your backend along with webproxy on local Minikube Kubernetes cluster. The webproxy is responsible for routing the incoming HTTP requests to the backend developed in Task 2.
 
 ## Assessment
 
