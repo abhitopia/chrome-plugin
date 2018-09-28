@@ -34,8 +34,7 @@ The backend must be written in Python.  You are free to use any database you wis
 
 ## (Task 3) Full Stack or Backend Developer
 
-Write the necessary Docker and docker-compose files to run your backend.
-
+Write the necessary deployment scripts to deploy your backend on Minikube Kubernetes cluster.
 
 ## Assessment
 
